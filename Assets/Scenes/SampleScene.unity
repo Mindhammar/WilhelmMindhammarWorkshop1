@@ -1344,6 +1344,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 7430549717022359811, guid: c5a9b17be1771e04e8897fce39dbc040, type: 3}
+      propertyPath: m_Material
+      value: 
+      objectReference: {fileID: 13400000, guid: e22a2d3d0bc0460449ded96a54c3ae81, type: 2}
     - target: {fileID: 8059369436015126064, guid: c5a9b17be1771e04e8897fce39dbc040, type: 3}
       propertyPath: m_Name
       value: "Kubb Pj\xE4s"
