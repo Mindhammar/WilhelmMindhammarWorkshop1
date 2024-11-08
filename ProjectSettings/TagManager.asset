@@ -41,3 +41,24 @@ TagManager:
   - name: Default
     uniqueID: 0
     locked: 0
+  - name: Ground
+    uniqueID: 450283359
+    locked: 0
+  - name: Collidables
+    uniqueID: 773290441
+    locked: 0
+  - name: Infront
+    uniqueID: 2312104801
+    locked: 0
+  - name: "Karakt\xE4rer"
+    uniqueID: 2742905145
+    locked: 0
+  - name: Behind
+    uniqueID: 1209242595
+    locked: 0
+  - name: Decor 1
+    uniqueID: 52971359
+    locked: 0
+  - name: UI
+    uniqueID: 2047882865
+    locked: 0
